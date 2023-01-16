@@ -78,6 +78,6 @@ target8.x=0
 target8.y=0
 version=3.0.0
 width=1139
-world.lastInstantiated=EndScreen
+world.lastInstantiated=TitleScreen
 xPosition=128
 yPosition=44
